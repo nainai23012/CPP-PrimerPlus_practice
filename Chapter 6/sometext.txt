@@ -1,0 +1,4 @@
+End of file reached
+Input terminated by data mismatch
+Input terminated for unknown reason
+No data processed
